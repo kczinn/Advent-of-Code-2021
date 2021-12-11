@@ -4,5 +4,7 @@
 // day1bAnswer.Run();
 // var Day2aAnswer = new Day2aAnswer();
 // Day2aAnswer.Run();
-var Day2bAnswer = new Day2bAnswer();
-Day2bAnswer.Run();
+// var Day2bAnswer = new Day2bAnswer();
+// Day2bAnswer.Run();
+var Day3aAnswer = new Day3aAnswer();
+Day3aAnswer.Run();
